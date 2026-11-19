@@ -1,0 +1,9 @@
+body { background:#f5f7fb; color:#24334a; }
+.card { border:1px solid #dce5ef; border-radius:14px; box-shadow:0 4px 14px #15365c0c; }
+.card-body { padding:1.4rem; }
+.resultado { overflow-wrap:anywhere; }
+.resultado ul { padding-left:1.2rem; margin-bottom:0; }
+.resultado .alert { margin-bottom:0; }
+.resultado .table-responsive { max-height:240px; }
+.nav-link { color:#234b80; }
+@media (max-width:400px){.container{padding-left:14px;padding-right:14px}.card-body{padding:1rem}}
