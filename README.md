@@ -4,9 +4,8 @@ Aplicação web que reúne quatro consultas simples: CEP, DDD, feriados nacionai
 
 
 ## Links (preencher depois de publicar)
-- **GitHub Pages:** COLE_AQUI_O_LINK_DO_SITE
-- **Repositório GitHub:** COLE_AQUI_O_LINK_DO_REPOSITORIO
-- **Vídeo:** COLE_AQUI_O_LINK_DO_VIDEO (ou inclua video.mp4 no ZIP)
+- **GitHub Pages:** (https://luisfilipenb10-code.github.io/brasil-facil/)
+- **Repositório GitHub:** (https://github.com/luisfilipenb10-code/brasil-facil)
 
 ## Tecnologias
 HTML5, CSS3, JavaScript puro, `fetch`, `async/await` e framework CSS Bootstrap 5.3.3. Sem back-end.
